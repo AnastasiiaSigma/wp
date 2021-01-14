@@ -1,2 +1,2 @@
 # wordpress
-Учебный сайт по WP
+Training site by WP
